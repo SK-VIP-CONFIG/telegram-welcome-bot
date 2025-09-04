@@ -14,3 +14,7 @@ Built with:
 ---
 
 ## 🔧 Setup (Local)
+1. Clone repo
+2. Install deps:
+   ```bash
+   pip install -r requirements.txt
